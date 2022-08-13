@@ -1,4 +1,4 @@
-﻿int n = 5; // 8
+﻿int n = 50; // 8
 int count = 0;
 for (int i = 1; i <= n; i++)
 {

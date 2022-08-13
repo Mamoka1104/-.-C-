@@ -1,4 +1,4 @@
-﻿int a = 4; //4, -3, 7
+﻿int a = 33; //4, -3, 7
 if (a % 2 == 0)
 {
     Console.WriteLine ("even");
